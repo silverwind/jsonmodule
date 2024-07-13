@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "@swc-node/register": "1.10.6"
+  }
+}
